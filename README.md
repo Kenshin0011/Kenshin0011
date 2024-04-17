@@ -16,7 +16,7 @@
 
 ![gitartwork](gitartwork.svg)
 
-##### 📈 GitHub Stats
+## 📈 GitHub Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kenshin0011&column=8&theme=dracula&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kenshin0011&theme=2077)
