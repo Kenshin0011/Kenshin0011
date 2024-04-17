@@ -12,7 +12,7 @@
 </a>
 
 [![Sublime's custom image](https://github.com/Kenshin0011/Kenshin0011//raw/main/images/hi-there.gif)
-](codepen.io/Kenshin0011/pen/yLrRyXL)
+](https://codepen.io/Kenshin0011/pen/yLrRyXL)
 
 ![gitartwork](gitartwork.svg)
 
