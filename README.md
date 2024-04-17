@@ -17,10 +17,10 @@
 ##### 📈 GitHub Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kenshin0011&column=8&theme=dracula&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kenshin0011&theme=jolly)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kenshin0011&theme=jolly)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kenshin0011&theme=jolly)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kenshin0011&theme=jolly)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kenshin0011&theme=jolly&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kenshin0011&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kenshin0011&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kenshin0011&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kenshin0011&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kenshin0011&theme=2077&utcOffset=8)
 
 ![](https://raw.githubusercontent.com/Kenshin0011/Kenshin0011/output/github-contribution-grid-snake.svg)
