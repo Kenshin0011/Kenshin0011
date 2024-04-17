@@ -1,5 +1,7 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=Kenshin0011&color=green)
+<a href="https://github.com/Kenshin0011/Kenshin0011/">
+  <img src="https://komarev.com/ghpvc/?username=Kenshin0011&color=green" alt="Kenshin0011" />
+</a>
 <!-- Like のバッジ -->
 <a href="https://zenn.dev/kenshin0011">
   <img src="https://zenn.badge.nikaera.com/s/kenshin0011/likes?style=plastic" alt="kenshin0011 likes" />
