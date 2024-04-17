@@ -12,6 +12,8 @@
   <img src="https://zenn.badge.nikaera.com/s/kenshin0011/articles?style=plastic" alt="kenshin0011 articles" />
 </a>
 
+![gitartwork](gitartwork.svg)
+
 ##### 📈 GitHub Stats
 ![](https://raw.githubusercontent.com/Kenshin0011/Kenshin0011/output/github-contribution-grid-snake.svg)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kenshin0011&column=8&theme=dracula&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
