@@ -1,5 +1,3 @@
-[![Sublime's custom image](https://github.com/Kenshin0011/Kenshin0011//raw/main/images/hi-there.gif)
-](codepen.io/Kenshin0011/pen/yLrRyXL)
 <a href="https://github.com/Kenshin0011/Kenshin0011/">
   <img src="https://komarev.com/ghpvc/?username=Kenshin0011&color=green" alt="Kenshin0011" />
 </a>
@@ -12,6 +10,9 @@
 <a href="https://zenn.dev/kenshin0011/articles">
   <img src="https://zenn.badge.nikaera.com/s/kenshin0011/articles?style=plastic" alt="kenshin0011 articles" />
 </a>
+
+[![Sublime's custom image](https://github.com/Kenshin0011/Kenshin0011//raw/main/images/hi-there.gif)
+](codepen.io/Kenshin0011/pen/yLrRyXL)
 
 ![gitartwork](gitartwork.svg)
 
